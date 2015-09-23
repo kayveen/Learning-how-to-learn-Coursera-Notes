@@ -2,8 +2,6 @@
 
 ***What is learning?***
 
-
-
 **2 Types of thinking/learning:**
 
 -   **Focused mode** thinking which involves concentrated thoughts about a specific topic. Examples would be multiplying numbers. This is used to work out the finer details of an idea. It involves the prefrontal cortex in the brain.
@@ -27,8 +25,6 @@ When learning something it's best to make use of both modes, going back and fort
 -   Often dreaming about a subject helps to improve understanding and strengthen memories.
 
 -   Sleep is vital to success!
-
-
 
 ***Improving your learning***
 
@@ -77,8 +73,6 @@ Chunking is the process we use to create memorable chunks of information which t
 -   The more experience and practise you have chunking a specific form of information the easier it will become to form and ingrain new, complex information.
 
 -   Your brain goes through periods of knowledge collapse where information which you have newly memorised doesn't make sense when previously it did. This is because your mind is restructuring the information. This is temporary and will pass. Often it will lead to a great leap in understanding.
--   
-
 
 ***Techniques***
 
@@ -163,8 +157,6 @@ Recalling the information means self-testing, checking and making sure the infor
 -   For lists of words you can also try to use memorable sentences - check online to see if someone has already come up with one.
 
 -   Teaching others can be an effective way to aid your own understanding.
--   
-
 
 ***Problems to avoid***
 
@@ -177,8 +169,6 @@ Some people say that "Science progresses one funeral at a time." This saying is 
 **The Imposter Syndrome:**
 
 This is an extremely common syndrome where a person feels like they are inadequate even in the face of information which proves otherwise. It can manifest as a chronic lack of confidence or self-doubt.
-
-
 
 ***Memory***
 
@@ -199,8 +189,6 @@ Reconsolidation is the reason why spaced repetition works!
 -   Having a better short term/working memory makes it harder to be creative. This is because a better working memory is more likely to experience Einstellung as it will pick up new concepts very quickly.
 
 -   A smaller working memory means you can generalise your learning into new, more creative, combinations. This is because you can get more inputs from the brain due to the memories being less tightly locked in. Also because your brain is used to being creative with the smaller amounts of memory it can work on at any period of time.
--   
-
 
 ***The Biology***
 
@@ -235,8 +223,6 @@ Neuro-modulators are chemicals which influence neuron response.
 **Other tips:**
 
 -   Exercise is the greatest gift you can give your brain because it helps new neurons to survive.
--   
-
 
 ***Procrastination***
 
@@ -307,8 +293,6 @@ One of the main causes of procrastination is focusing on the product or outcome 
 -   This is where you focus on *process rather than product*.
 
 -   Often done using 25 minutes of hard work and focus, followed by a 5 minute break which is like a reward when you are finished.
--   
-
 
 **Illusions of competence **
 
@@ -337,8 +321,6 @@ One of the main causes of procrastination is focusing on the product or outcome 
 **Mind maps/Concept maps:**
 
 -   These can be helpful but only once you have already formed the chunks. Using them beforehand however means you are trying to learn by understand alone which will fade quickly.
--   
-
 
 ***Techniques for exams***
 
@@ -395,8 +377,6 @@ One of the main causes of procrastination is focusing on the product or outcome 
     4.  Try to stop studying the day before the exam to give your brain a chance to rest.
 
     5.  Try to use good worry that is helpful rather than bad worry which causes anxiety.
-    
-    
 
 ***Finally some general tips to aid learning***
 
