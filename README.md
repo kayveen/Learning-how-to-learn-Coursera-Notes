@@ -294,7 +294,7 @@ One of the main causes of procrastination is focusing on the product or outcome 
 
 -   Often done using 25 minutes of hard work and focus, followed by a 5 minute break which is like a reward when you are finished.
 
-***Illusions of competence ***
+**Illusions of competence **
 
 **Rereading:**
 
