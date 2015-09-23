@@ -1,4 +1,4 @@
-***James Porter â€“ Learning how to learn course notes - Coursera***
+***James Porter  Learning how to learn course notes - Coursera***
 
 ***What is learning?***
 
