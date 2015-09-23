@@ -4,17 +4,17 @@
 
 **2 Types of thinking/learning:**
 
--   **Focused mode**Â thinking which involves concentrated thoughts about a specific topic. Examples would be multiplying numbers. This is used to work out the finer details of an idea. It involves the prefrontal cortex in the brain.
+-   **Focused mode** thinking which involves concentrated thoughts about a specific topic. Examples would be multiplying numbers. This is used to work out the finer details of an idea. It involves the prefrontal cortex in the brain.
 
--   **Diffuse mode**Â thinking is the use of relaxed, unfocused and unrelated thought patterns enabling connections between very different ideas within the brain. Often done when doing exercise, daydreaming or when you zone out.
+-   **Diffuse mode** thinking is the use of relaxed, unfocused and unrelated thought patterns enabling connections between very different ideas within the brain. Often done when doing exercise, daydreaming or when you zone out.
 
-When learning something it's best to make use of both modes, going back and forth betweenÂ *focused*Â andÂ *diffuse mode*Â thinking. This enables you to view the problem from all angles, often yielding the best results and making efficient use of your brain.
+When learning something it's best to make use of both modes, going back and forth between *focused* and *diffuse mode* thinking. This enables you to view the problem from all angles, often yielding the best results and making efficient use of your brain.
 
 **2 Types of memory:**
 
--   **Working memory**Â (Short term) consists of 4 'slots' which can hold information. Like an inefficient blackboard.
+-   **Working memory** (Short term) consists of 4 'slots' which can hold information. Like an inefficient blackboard.
 
--   **Long term memory**Â is like a storage warehouse, and can store almost unlimited amounts of information but practise is required to efficiently retrieve memories.
+-   **Long term memory** is like a storage warehouse, and can store almost unlimited amounts of information but practise is required to efficiently retrieve memories.
 
 **Sleep:**
 
@@ -30,13 +30,13 @@ When learning something it's best to make use of both modes, going back and fort
 
 Chunking is the process we use to create memorable chunks of information which the brain can easily access in one package. It can be described as mental leap to unite information through understanding. They do not require conscious thought to make use of the information they connect. Imagine a hyperlink to a page, you only need to click on the hyperlink to access the collection of information. You don't need to access all of the information separately on different pages.
 
--   An example of aÂ *chunk*Â would be when going to drive and you pull out of your drive. You don't follow each individual step mentally, you just think, letâ€™s get onto the road and off you go. This is because the information has been formed into a chunk which your mind can access in one go.
+-   An example of a *chunk* would be when going to drive and you pull out of your drive. You don't follow each individual step mentally, you just think, let's get onto the road and off you go. This is because the information has been formed into a chunk which your mind can access in one go.
 
--   *Stress*Â reduces the efficiency ofÂ chunking information.
+-   *Stress* reduces the efficiency of chunking information.
 
--   To beÂ *creative*Â you need to have solid conceptual chunks which you can combine.
+-   To be *creative* you need to have solid conceptual chunks which you can combine.
 
--   Forming aÂ *chunk*Â requires the use of theÂ *focused mode*Â of thinking.
+-   Forming a *chunk* requires the use of the *focused mode* of thinking.
 
 **Steps to form a chunk:**
 
@@ -48,11 +48,11 @@ Chunking is the process we use to create memorable chunks of information which t
 
 **Tips to help with chunking:**
 
--   If solving a problem, try not to focus on the overarching picture. Try to focus on the connections between steps. This is the downfall of using worked solutions! Mindless learning doesn't work! - This is an*Â illusion of competence*.
+-   If solving a problem, try not to focus on the overarching picture. Try to focus on the connections between steps. This is the downfall of using worked solutions! Mindless learning doesn't work! - This is an* illusion of competence*.
 
 -   You can form a chunk without understanding but they are often pointless.
 
--   Also having the understanding without the chunks to back it up fades quickly -Â *This is an illusion of competence.*
+-   Also having the understanding without the chunks to back it up fades quickly - *This is an illusion of competence.*
 
 -   To make the information context independent - practise recalling it in different ways, or try and do different styles of questions with it. The more connections to the information, the easier it will be to recall.
 
@@ -68,7 +68,7 @@ Chunking is the process we use to create memorable chunks of information which t
 
     -   The larger and better practised your library the easier problem solving becomes.
 
--   Previously stored chunks can help with new learning because the new information can be integrated more easily with other related stored information. This is known as*Â transfer*Â and uses theÂ *diffuse mode*Â of thinking.
+-   Previously stored chunks can help with new learning because the new information can be integrated more easily with other related stored information. This is known as* transfer* and uses the *diffuse mode* of thinking.
 
 -   The more experience and practise you have chunking a specific form of information the easier it will become to form and ingrain new, complex information.
 
@@ -82,7 +82,7 @@ Memory techniques help to create chunks and help you to learn concepts quicker. 
 
 Recalling the information means self-testing, checking and making sure the information in your memory is correct.
 
--   Do not reread! Recall!Â *Recalling information has proven to be the most effective method of learning information.*
+-   Do not reread! Recall! *Recalling information has proven to be the most effective method of learning information.*
 
 -   The recall process is known to enhance deep learning and form solid chunks.
 
@@ -120,7 +120,7 @@ Recalling the information means self-testing, checking and making sure the infor
 
     -   Try this before bed to help maximise learning
 
-    -   Try to practiseÂ flash cardsÂ out loud so as to use make links with the sounds. The more links the better!
+    -   Try to practise flash cards out loud so as to use make links with the sounds. The more links the better!
 
 **Metaphors & Analogies:**
 
@@ -226,7 +226,7 @@ Neuro-modulators are chemicals which influence neuron response.
 
 ***Procrastination***
 
-When starting a task which we do not enjoy, the feeling of unease has a similar brain pattern to pain and so we swap to something more pleasant. This is calledÂ *Procrastination*.
+When starting a task which we do not enjoy, the feeling of unease has a similar brain pattern to pain and so we swap to something more pleasant. This is called *Procrastination*.
 
 Procrastination is especially important because to build solid neural chunks you need time and you cannot put it off until last minute.
 
@@ -248,13 +248,13 @@ Procrastination works in a way similar to addiction due to the reliance on short
 
 Habits are automatic actions or behaviours which we perform after a certain trigger occurs. Chunks can be considered a form of habit.
 
-1.  **The cue**Â or trigger sets off the habit. This can be a number of things from an emotional state, to a location.
+1.  **The cue** or trigger sets off the habit. This can be a number of things from an emotional state, to a location.
 
-2.  **The routine**Â - this is the zombie-like automatic response.
+2.  **The routine** - this is the zombie-like automatic response.
 
-3.  **The reward**Â - this is the moment when you feel good for following the habit and it is also what maintains the habit.
+3.  **The reward** - this is the moment when you feel good for following the habit and it is also what maintains the habit.
 
-4.  **The belief**Â - most habits only have power over us because we believe in them.
+4.  **The belief** - most habits only have power over us because we believe in them.
 
 It's perfectly normal to feel negative feelings when you start to study but the important thing is the manner in which you handle them. Studies show that people that don't procrastinate put their emotions aside and focus on the task at hand.
 
@@ -290,11 +290,11 @@ One of the main causes of procrastination is focusing on the product or outcome 
 
 **The Pomodoro Technique:**
 
--   This is where you focus onÂ *process rather than product*.
+-   This is where you focus on *process rather than product*.
 
 -   Often done using 25 minutes of hard work and focus, followed by a 5 minute break which is like a reward when you are finished.
 
-***Illusions of competenceÂ ***
+***Illusions of competence ***
 
 **Rereading:**
 
@@ -396,4 +396,4 @@ One of the main causes of procrastination is focusing on the product or outcome 
 
 -   Perseverance is very important and be the biggest factor in success.
 
--   Teamwork and can be a very powerful tool. We are social animals and this can be used to our advantage. By working in a team we can check each otherâ€™s work or understanding for errors, coving all blind-spots. Almost like an ever-questioning external diffuse mode. Also others can help to keep you on track when you start to lose focus.
+-   Teamwork and can be a very powerful tool. We are social animals and this can be used to our advantage. By working in a team we can check each other's work or understanding for errors, coving all blind-spots. Almost like an ever-questioning external diffuse mode. Also others can help to keep you on track when you start to lose focus.
